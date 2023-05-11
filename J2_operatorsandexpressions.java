@@ -27,7 +27,7 @@ public class J2_operatorsandexpressions {
         System.out.println(10 & 2);
         int x=3 | 10;
         System.out.println(x);
-
+//5. Bitwise
         System.out.println(!(1>5 && 2>5 )); // !returns opposite result
         System.out.println(6>5 & 6>5);
     }
