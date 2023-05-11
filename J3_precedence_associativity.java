@@ -32,6 +32,12 @@ public class J3_precedence_associativity {
         byte t=9;
         long h=1020202000333333l;
         System.out.println(t+h);
+
+
+        int v=10;
+        int q=25;
+        int l= (v*v)-(q*q);
+        System.out.println(l);
     }
 
 }
